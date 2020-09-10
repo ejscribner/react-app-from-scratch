@@ -2068,3 +2068,42 @@ Let's just update the entire return statement on the `EventDetails,s` page with 
 That helps to fill out the page and we even have a class that is being conditionally rendered based on a flight number being available (or not) and our styled links, borders and font sizes that we pasted in as part of the styles for these pages should be working too!
 
 That concludes the section dealing with taking the Event master details page to the next level!
+
+## More Resources
+
+These are additional resources not mentioned above, but I think are all pertinent to React today to help you get started and understand state in React!
+
+### Great Advice and Insights from React Podcasts
+
+These are my two favorite React Podcasts, some of the episodes are old, but still super relevant. These are some of the episodes that I think will fast track you in ReactJS!
+
+- [React Podcast 107: Sara Vieira on The Opinionated Guide to React](https://reactpodcast.com/episodes/107)
+- [React Podcast 99: Michael Jackson and Ryan Florence on Remix](https://reactpodcast.com/episodes/99)
+- [React Podcast 85: Michael Jackson on React Router v6 and Empathy in Open Source](https://reactpodcast.com/episodes/85)
+- [React Podcast 76: Rachel Nabors on React Community Empowerment](https://reactpodcast.com/episodes/76)
+- [React Podcast 72: Kitze on Surviving Hype Driven Development Culture](https://reactpodcast.com/episodes/72)
+- [React Podcast 70: Andrew Clark on Concurrent Mode](https://reactpodcast.com/episodes/70)
+- [React Podcast 58: Eve Porcello on Learning GraphQL](https://reactpodcast.com/episodes/58)
+- [React Podcast 55: Erik Rasmussen on Final Form](https://reactpodcast.com/episodes/55)
+- [Syntax FM 272: React State Roundup](https://syntax.fm/show/272/react-state-round-up)
+- [Syntax FM 004: React Tooling](https://syntax.fm/show/004/javascript-tooling)
+
+### React, State Management, and Hooks
+
+- [React v17, No New Features](https://www.youtube.com/watch?v=ZLXYhmgbMBo)
+- [Eric Bishard - State Management with React Hooks (React Live 2019)](https://www.youtube.com/watch?v=-yj23RtyT-E)
+- [Fullstack React w/ GraphQL, Express, Couchbase & Recoiljs](https://www.youtube.com/watch?v=d69FJiRwc1Y&t=2513s)
+- [The Guide to Learning React Hooks](https://www.telerik.com/kendo-react-ui/react-hooks-guide/)
+
+### Recoil JS
+
+- [RecoilJS.org](https://recoiljs.org)
+- [Recoil Release Announcement at React Europe](https://www.youtube.com/watch?v=_ISAA_Jt9kI&t=1414s)
+- [Recoil with Jacques Blom](https://www.youtube.com/channel/UCk7n3lGPpGliKoTvFHoO_vg)
+
+### Learnign React JS
+
+- [Egghead.io](https://egghead.io/browse/frameworks/react)
+- [Advanced React w/ GraphQL](https://advancedreact.com/)
+- [Tyler McGinnis' React, and JavaScript Courses](https://ui.dev/courses/)
+- [Testing JavaScript](https://testingjavascript.com/)
