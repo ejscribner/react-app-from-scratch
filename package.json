@@ -14,7 +14,7 @@
     "lint:fix": "eslint --fix app --ext .js,.jsx",
     "test": "echo \"No test script\"",
     "build": "webpack",
-    "start": "webpack-dev-server --open"
+    "start": "webpack serve --open"
   },
   "keywords": [],
   "author": "",
@@ -32,25 +32,26 @@
     "eslint-watch": "^7.0.0",
     "file-loader": "^6.1.0",
     "html-webpack-plugin": "^4.4.1",
-    "node-sass": "^4.14.1",
-    "sass-loader": "^9.0.3",
+    "node-sass": "^7.0.1",
+    "sass-loader": "^13.0.0",
     "style-loader": "^1.2.1",
     "url-loader": "^4.1.0",
-    "webpack": "^4.44.1",
-    "webpack-cli": "^3.3.12",
+    "webpack": "^5.0.0",
+    "webpack-cli": "^4.7.2",
     "webpack-dev-server": "^3.11.0"
   },
   "dependencies": {
-    "@progress/kendo-drawing": "^1.9.1",
-    "@progress/kendo-react-inputs": "^3.16.0",
-    "@progress/kendo-react-intl": "^3.16.0",
-    "@progress/kendo-theme-material": "^3.19.0",
+    "@babel/register": "^7.17.7",
+    "@progress/kendo-drawing": "^1.16.3",
+    "@progress/kendo-react-inputs": "^5.3.0",
+    "@progress/kendo-react-intl": "^5.3.0",
+    "@progress/kendo-theme-material": "^5.4.1",
     "normalize.css": "^8.0.1",
     "prop-types": "^15.7.2",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
     "react-media-hook": "^0.4.7",
     "react-router-dom": "^5.2.0",
-    "simple-flexbox": "^2.3.2"
+    "simple-flexbox": "^2.3.3"
   }
 }
